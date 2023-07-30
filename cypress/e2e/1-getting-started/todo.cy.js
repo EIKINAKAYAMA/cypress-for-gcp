@@ -11,7 +11,6 @@
 // please read our getting started guide:
 // https://on.cypress.io/introduction-to-cypress
 
-const request = require("request");
 const fs = require("fs");
 
 describe("example to-do app", () => {
